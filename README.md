@@ -14,8 +14,8 @@ sememe_network_dict_en_wordnet_all_tagme_2000.npy
 ### Table 3  Evaluate on Sememe Graph 
 
 
-WordNet&WikiSKB: 
+WordNet&WikiSKB+ (1.4GB): 
 https://drive.google.com/file/d/1Tp3aPvQvStcuL6CVh39-EZodp-4UA4wB/view?usp=sharing
 
-WordNet&WikiSKB+: 
+WordNet&WikiSKB (1.37GB): 
 https://drive.google.com/file/d/1awksEdxvb15zNkw3ecQTPNc9E7ZjZ8xi/view?usp=sharing
