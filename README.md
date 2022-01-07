@@ -1,15 +1,17 @@
 ## For Reproduce the results
 
 
-### Table 2  Evaluate on Consistency Check of Sememe Annotations 
+### Table 2  Evaluate on Consistency Check of Sememe Annotations
 
-sememe_network_cdv_en_wiki_2000.npy
-sememe_network_cdv_en_wordnet_2000.npy
-sememe_network_cdv_en_wordnet_all_tagme_2000.npy
+```
+./sememe_network_cdv_en_wiki_2000.npy
+./sememe_network_cdv_en_wordnet_2000.npy
+./sememe_network_cdv_en_wordnet_all_tagme_2000.npy
 
-sememe_network_dict_en_wiki_2000.npy
-sememe_network_dict_en_wordnet_2000.npy
-sememe_network_dict_en_wordnet_all_tagme_2000.npy
+./sememe_network_dict_en_wiki_2000.npy
+./sememe_network_dict_en_wordnet_2000.npy
+./sememe_network_dict_en_wordnet_all_tagme_2000.npy
+```
 
 ### Table 3  Evaluate on Sememe Graph 
 
