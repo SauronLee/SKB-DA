@@ -1,6 +1,38 @@
 # SKB-DA
-<p align="center"><img src="main_fig.png" alt="logo" width="800px" />
+<p align="center"><img src="main_fig.png" alt="logo" width="900px" />
 
+## How to use your own data to construct SKB-AD
+  
+Get the words and definitions for Wikipedia and WordNet.
+> First you need to process the Wikipedia file (please use the provided file)
+  $./wiki_processing/src/wiki-preprocessing.sh$
+
+```
+./SKB-DA/get_defination.py
+```
+
+Lemmatization for definitions
+```
+./SKB-DA/lemmatization.py
+```
+
+Please use TagMe Api to extract entity links. In the following link we provide the extraction results of 900,000 Wikipedia entries
+* sentence index: https://drive.google.com/file/d/1s8FSzDF5WpOPysJKgMhEWOY3sjHR6fi-/view?usp=sharing
+* sentence entity: https://drive.google.com/file/d/1-nbmF6evNipnU_ePcG0dYg126OD7GCJr/view?usp=sharing
+
+Constructing the original SKB using WordNet
+```
+./SKB-DA/wordnet_sememe.ipynb
+```
+Using Wikipedia to build SKB
+```
+./SKB-DA/wiki_sememe.ipynb
+```
+Expansion of SKB
+```
+./SKB-DA/ad_processing.ipynb
+```
+  
 ## For Reproduce the results
 
 ### Table 2  Evaluate on Consistency Check of Sememe Annotations
