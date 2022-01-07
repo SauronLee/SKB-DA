@@ -5,7 +5,9 @@
   
 Get the words and definitions for Wikipedia and WordNet.
 > First you need to process the Wikipedia file (please use the provided file)
-  $./wiki_processing/src/wiki-preprocessing.sh$
+  ```
+  ./wiki_processing/src/wiki-preprocessing.sh
+  ```
 
 ```
 ./SKB-DA/get_defination.py
