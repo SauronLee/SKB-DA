@@ -1,5 +1,7 @@
-## For Reproduce the results
+# SKB-DA
+<p align="center"><img src="main_fig.png" alt="logo" width="600px" />
 
+## For Reproduce the results
 
 ### Table 2  Evaluate on Consistency Check of Sememe Annotations
 
