@@ -1,5 +1,5 @@
 # SKB-DA
-<p align="center"><img src="main_fig.png" alt="logo" width="600px" />
+<p align="center"><img src="main_fig.png" alt="logo" width="800px" />
 
 ## For Reproduce the results
 
