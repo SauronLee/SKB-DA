@@ -17,8 +17,8 @@ Lemmatization for definitions
 ```
 
 Please use TagMe Api to extract entity links. In the following link we provide the extraction results of 900,000 Wikipedia entries
-* sentence index: https://drive.google.com/file/d/1s8FSzDF5WpOPysJKgMhEWOY3sjHR6fi-/view?usp=sharing
-* sentence entity: https://drive.google.com/file/d/1-nbmF6evNipnU_ePcG0dYg126OD7GCJr/view?usp=sharing
+* sentence index (37.4MB): https://drive.google.com/file/d/1s8FSzDF5WpOPysJKgMhEWOY3sjHR6fi-/view?usp=sharing
+* sentence entity (6.24GB): https://drive.google.com/file/d/1-nbmF6evNipnU_ePcG0dYg126OD7GCJr/view?usp=sharing
 
 Constructing the original SKB using WordNet
 ```
