@@ -1,5 +1,5 @@
 # SKB-DA
-<p align="center"><img src="main_fig.png" alt="logo" width="900px" />
+<p align="center"><img src="main_fig.png" alt="logo" width="800px" />
 
 This repository provides the source codes of "A Data Augmentation Method for Building Sememe Knowledge Base via Reconstructing Dictionary Definitions" published in The Association for Natural Language Processing 2022
 ## How to use your own data to construct SKB-AD
