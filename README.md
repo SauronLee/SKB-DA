@@ -18,8 +18,8 @@ Lemmatization for definitions
 ```
 
 Please use TagMe Api to extract entity links. In the following link we provide the extraction results of 900,000 Wikipedia entries
-* sentence index (37.4MB): https://drive.google.com/file/d/1s8FSzDF5WpOPysJKgMhEWOY3sjHR6fi-/view?usp=sharing
-* sentence entity (6.24GB): https://drive.google.com/file/d/1-nbmF6evNipnU_ePcG0dYg126OD7GCJr/view?usp=sharing
+> * sentence index (37.4MB): https://drive.google.com/file/d/1s8FSzDF5WpOPysJKgMhEWOY3sjHR6fi-/view?usp=sharing
+> * sentence entity (6.24GB): https://drive.google.com/file/d/1-nbmF6evNipnU_ePcG0dYg126OD7GCJr/view?usp=sharing
 
 Constructing the original SKB using WordNet
 ```
@@ -52,7 +52,12 @@ Expansion of SKB
 
 
 WordNet&WikiSKB+ (1.4GB): 
-https://drive.google.com/file/d/1Tp3aPvQvStcuL6CVh39-EZodp-4UA4wB/view?usp=sharing
+> https://drive.google.com/file/d/1Tp3aPvQvStcuL6CVh39-EZodp-4UA4wB/view?usp=sharing
 
 WordNet&WikiSKB (1.37GB): 
-https://drive.google.com/file/d/1awksEdxvb15zNkw3ecQTPNc9E7ZjZ8xi/view?usp=sharing
+> https://drive.google.com/file/d/1awksEdxvb15zNkw3ecQTPNc9E7ZjZ8xi/view?usp=sharing
+  
+### SDK-DA for Table 4 
+> https://drive.google.com/file/d/1tFEqjC4Nm965JVRs-7HmPdURjjZNH0h2/view?usp=sharing
+
+
