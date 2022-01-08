@@ -57,7 +57,7 @@ WordNet&WikiSKB+ (1.4GB):
 WordNet&WikiSKB (1.37GB): 
 > https://drive.google.com/file/d/1awksEdxvb15zNkw3ecQTPNc9E7ZjZ8xi/view?usp=sharing
   
-### SDK-DA for Table 4 
+### SKB-DA for Table 4 
 > https://drive.google.com/file/d/1tFEqjC4Nm965JVRs-7HmPdURjjZNH0h2/view?usp=sharing
 
 
