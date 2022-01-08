@@ -2,7 +2,7 @@
 <p align="center"><img src="main_fig.png" alt="logo" width="800px" />
 
 This repository provides the source codes of "A Data Augmentation Method for Building Sememe Knowledge Base via Reconstructing Dictionary Definitions" published in The Association for Natural Language Processing 2022
-## How to use your own data to construct SKB-AD
+## How to use your own data to construct SKB-DA
   
 Get the words and definitions for Wikipedia and WordNet.
 > First you need to process the Wikipedia file (please use the provided file)
