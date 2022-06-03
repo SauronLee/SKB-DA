@@ -84,6 +84,10 @@ WordNet&WikiSKB (1.37GB):
 
 ## Citation
 ```
+@article{lidata,
+  title={A Data Augmentation Method for Building Sememe Knowledge Base via Reconstructing Dictionary Definitions},
+  author={Li, Xiaoran and Takano, Toshiaki}
+}
 ```
 
 
